@@ -1,4 +1,4 @@
-# Schedule regularly occuring meetings via GitHub Issue
+# ye olde test PR
 
 <!--
 [![NPM Version](https://img.shields.io/npm/v/meeting-maker.svg)](https://npmjs.org/package/meeting-maker)
